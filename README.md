@@ -2,5 +2,3 @@ kitest
 ======
 
 kitest
-
-delete kitest
